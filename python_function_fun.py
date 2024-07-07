@@ -1,7 +1,5 @@
 """
 arb_args - Takes in any number of arguments and prints them one at a time.
-
-
 inner_func - Takes in two integers. Two nested functions should perform separate, distinct math operations using the integers. The result of both nested functions should then be added together and printed.
 lunch_lady - Takes in two strings: a student's name and their lunch preference. The function should print both strings. If a lunch preference is not given, "Mystery Meat" should be printed instead.
 sum_n_product - Accepts two integers and returns both the sum and the product.
